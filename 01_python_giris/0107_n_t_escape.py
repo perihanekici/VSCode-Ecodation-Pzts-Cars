@@ -29,7 +29,7 @@ escape -> kaçış karakteri
 print("\\")
 
 """
-merhaba "ecodation
+merhaba "ecodation"
 """
 
 print("merhaba\"ecodation\"")
